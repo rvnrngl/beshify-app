@@ -106,7 +106,7 @@ function App() {
             </a>
           </p>
           <a
-            href="#"
+            href="https://github.com/rvnrngl/beshify-app"
             target="_blank"
             className="flex items-center text-gray-800 hover:text-teal-500 dark:hover:text-teal-500 dark:text-gray-200 underline gap-1"
           >
