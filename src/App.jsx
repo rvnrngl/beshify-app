@@ -7,7 +7,7 @@ function App() {
   const [input, setInput] = useState("");
   const [output, setOutput] = useState("");
   const [isCopied, setIsCopied] = useState(false);
-
+  //Sir Opet , Sir Raven , Sir Migs , Sir John mga pogi 
   // check if windows prefer theme is dark mode
   useEffect(() => {
     if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
